@@ -1,0 +1,33 @@
+Advantages of using OOPS:
+1. Object-oriented programming makes the code more organized and reusable.
+2. Easy to maintain and modify the code because of the modular structure of objects.
+
+Advantages of using dictionaries:
+1. Dictionaries are easy to implement and have a simple syntax.
+2. They provide fast access to data as they are hash tables.
+
+Disadvantages of using OOP:
+1. Can make the code more complex and harder to understand for someone who is not familiar with the OOP concept.
+2. Performance may be slower compared to using dictionaries because of the overhead involved in creating and using objects.
+
+Disadvantages of using dictionaries:
+1. Dictionaries do not provide the same level of organization and structure as objects.
+2. Dictionaries can be harder to manage if the data structure is complex.
+
+
+Performance comparison for grading operation:
+1.N:1000
+2.Time by OO:
+0.12766879087654
+3.Time by dictionary:
+0.142127129652683
+4.OOPS is faster,1.113248811059272
+
+
+Performance comparison for search operation:
+1. N: 1
+2. Time by OO: 0.0004987412658284
+3. Time by dictionary: 0.000545684568568545
+4. OOPS is faster, 1.258825862
+
+
